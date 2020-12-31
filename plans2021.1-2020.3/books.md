@@ -1,1 +1,10 @@
-
+__第二阶段用到的的资料<br>__
+&emsp;数学：<br>
+&emsp;&emsp;同济大学高数、同济大学线性代数、同济大学概率论；<br>
+&emsp;&emsp;张宇18讲；<br>
+&emsp;&emsp;李永乐现代讲义；<br>
+&emsp;&emsp;王式安概率论讲义<br>
+&emsp;英语：<br>
+&emsp;&emsp;张剑黄皮书英语真题；<br>
+&emsp;&emsp;唐迟阅读的逻辑；<br>
+&emsp;dsa：邓俊辉数据结构，邓俊辉数据结构习题集，学堂在线邓俊辉MOOC视频，邓俊辉PDF课件2020-10up版<br>
