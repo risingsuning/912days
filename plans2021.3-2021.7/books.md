@@ -1,1 +1,10 @@
-
+&emsp;数学：<br>
+&emsp;&emsp;李永乐线代辅导，线代教材<br>
+&emsp;&emsp;概率论王式安，概率论教材<br>
+&emsp;&emsp;高数：1800，张宇十八讲<br>
+&emsp;英语：<br>
+&emsp;&emsp;不背单词<br>
+&emsp;&emsp;张剑黄皮书<br>
+&emsp;&emsp;阅读的逻辑<br>
+&emsp;dsa：<br>
+&emsp;&emsp;邓俊辉，PPT，教材，习题册，视频
