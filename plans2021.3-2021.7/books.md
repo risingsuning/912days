@@ -8,5 +8,7 @@
 &emsp;&emsp;不背单词<br>
 &emsp;&emsp;张剑黄皮书<br>
 &emsp;&emsp;阅读的逻辑<br>
+&emsp;&emsp;衡水体字帖<br>
+&emsp;&emsp;王江涛的写作<br>
 &emsp;dsa：<br>
 &emsp;&emsp;邓俊辉，PPT，教材，习题册，视频
